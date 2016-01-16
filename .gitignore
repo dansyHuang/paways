@@ -1,3 +1,9 @@
 showcase
 quickstart.rar
 *.class
+target
+*.classpath
+*.settings
+bin
+*.project
+logs
