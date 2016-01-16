@@ -48,7 +48,7 @@
 <!-- 	                                            	<div id="right" onclick="$(this).css('background-color','#fff').css('border-bottom','0px');$('#left').css('background-color','#F5F5F5');$('#teacher').css('display','none');$('#jiazhang').css('display','block');" class="panel-div panel-div-right">找老师</div>
  -->	                                            </div>
                                             	<div class="panel-body">
-											        <form id="registryForm" name="registryForm" class="form-horizontal teacher" action="" method="post" enctype="multipart/form-data">
+											        <form id="J_Form" name="registryForm" class="form-horizontal teacher" action="">
 											        	<div class="control-group">
 													          <div class="controls">
 													            <label class="control-label">登录帐号：&nbsp;&nbsp;</label><input  class="input-large bui-form-field" data-rules="{required : true}"  type="text" name="loginId" placeholder="请输入您的登录帐号" >

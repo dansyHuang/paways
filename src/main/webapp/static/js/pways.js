@@ -11,7 +11,6 @@
         url: '/paways/upload',
         //根据业务需求来判断上传是否成功，这里返回一个boolean
         isSuccess: function(result){
-        	alert(result);
           if(result && result.url){
             return true;
           }
@@ -20,9 +19,8 @@
       }).render();
     });
  BUI.use('bui/form',function(Form){
-     
     var form= new Form.Form({
        srcNode : '#registryForm'
      }).render();
-     alert(form);
+    alert(form);
  });  

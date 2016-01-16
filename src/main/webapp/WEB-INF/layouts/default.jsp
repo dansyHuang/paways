@@ -10,16 +10,15 @@
 <meta http-equiv="Cache-Control" content="no-store" />
 <meta http-equiv="Pragma" content="no-cache" />
 <meta http-equiv="Expires" content="0" />
-<script src="${ctx}/static/js/jquery-ui-1.11.4.custom/external/jquery/jquery.js"></script>
 <link rel="stylesheet" href="${ctx}/static/css/content.css" type="text/css" />
 <link rel="stylesheet" href="${ctx}/static/css/menu.css" type="text/css" />
 <link rel="stylesheet" href="${ctx}/static/css/style.css" type="text/css" />
 <link rel="stylesheet" href="${ctx}/static/css/pways.css" type="text/css" />
+<script src="${ctx}/static/bui/jquery-1.8.1.min.js"></script>
 <script type="text/javascript" src="${ctx}/static/js/select-picker.js"></script>
 <!-------------------BUI----------------->
   <link rel="stylesheet" href="${ctx}/static/bui/css/bs3/bui-min.css" type="text/css" />
   <link rel="stylesheet" href="${ctx}/static/bui/css/bs3/dpl-min.css" type="text/css" />
-  <script src="${ctx}/static/bui/jquery-1.8.1.min.js"></script>
   <script src="${ctx}/static/bui/bui-min.js"></script>
 <sitemesh:head/>
 </head>
